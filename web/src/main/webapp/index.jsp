@@ -11,7 +11,7 @@
     <title>Super Simple Example Webpage</title>
 </head>
 <body>
-  <h1>My first Maven project</h1>
+  <h1>My first Maven project with email notification</h1>
   <p>
     My first Maven project.
   </p>
