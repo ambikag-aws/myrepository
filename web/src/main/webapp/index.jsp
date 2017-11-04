@@ -13,7 +13,7 @@
 <body>
   <h1>My first Maven project</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    My first Maven project.
   </p>
 </body>
 </html>
